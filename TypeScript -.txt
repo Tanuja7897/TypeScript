@@ -1,0 +1,13 @@
+TypeScript -
+
+1. TypeScript does "Static Checking" 
+	When I write code the IDE continuously analyze the code and tell if there is any error but js does not support it because it through error when it runs on browser.(potential error)
+
+2. TypeScript is "Type Safe"
+	2+"2" is not allowed
+
+3. TS Code --> converted to (JavaScript)
+
+4. It is a wrapper around js which is more understandable and error safe 
+
+5. number is for numbers like 42. JavaScript does not have a special runtime value for integers, so there’s no equivalent to int or float - everything is simply number
