@@ -10,7 +10,7 @@ abstract class TakePhoto {
 
     abstract getSepia(): void
     getReelTime(): number{
-        //some complex calculation
+        
         return 8
     }
 }

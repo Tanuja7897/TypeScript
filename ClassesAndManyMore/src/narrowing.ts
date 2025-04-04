@@ -9,7 +9,7 @@ function printId(id: string | number) {
 }
 
 
-// //error in cale of array
+// //error in case of array
 // function printAll(strs: string | string[] | null) {
 //     if (strs) { 
 //       if (typeof strs === "object") { //obj can be null or undefined also

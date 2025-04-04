@@ -35,13 +35,17 @@ interface User {
     role : string 
  }
 
+
+//  tanuja is NOT an instance of Admin (because Admin is an interface).
+
+// Instead, tanuja is an object that matches the structure defined by Admin.
+
   const tanuja : Admin = {
     password : "123",
     role : "owner",
     id : 1,
     email :"tanu@gmail", 
     userId:1 , 
-    
     gitId: "abcd"
  }
 

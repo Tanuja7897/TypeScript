@@ -12,13 +12,15 @@ function userData(details:{name:string, rollNo:string}):{name:string,status:stri
 
 
 
-function createUser({name: string, isPaid: boolean}){}
+function createUser({name: string, isPaid: boolean}):number{return 0;}
 
 //not allowed
-// let newUser =({name: "hitesh", isPaid: false, email: "h@h.com"})
+
+// let t = createUser({name:"Tanu" , isPaid:true ,email:"h@h.com"});
+
 
 ////wored ! but allowed
-let newUser = {name: "hitesh", isPaid: false, email: "h@h.com"}
-createUser(newUser)
+// let newUser = {name: "hitesh", isPaid: false, email: "h@h.com"}
+// createUser(newUser)
 
 export{}
