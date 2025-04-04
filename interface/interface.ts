@@ -51,4 +51,4 @@ interface User {
 
 
  //type vs interface
-//  1. type cannot be changerd but interface can be reopened
+ 1. type cannot be changerd but interface can be reopened
